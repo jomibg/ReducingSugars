@@ -1,2 +1,2 @@
 # ReducingSugars
-Example of a chemistry lab report using R markdown
+Example of a chemistry lab report written using R markdown
